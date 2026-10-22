@@ -1,0 +1,9 @@
+{
+  "name": "Hist-CrCb",
+  "space": "CrCb",
+  "bins": 32,
+  "smooth": 0.0,
+  "threshold": 0.39999999999999997,
+  "kernel": 0,
+  "white_balance": false
+}

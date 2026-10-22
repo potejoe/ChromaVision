@@ -1,0 +1,7 @@
+{
+  "pairs": 71,
+  "exact_pixel_duplicates": 0,
+  "dhash_pairs_distance_le_4": 0,
+  "mask_threshold": 128,
+  "note": "dHash ne prouve pas l\u2019absence de sc\u00e8nes ou de personnes communes ; pas de m\u00e9tadonn\u00e9es d\u2019identit\u00e9"
+}

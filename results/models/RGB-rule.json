@@ -1,0 +1,9 @@
+{
+  "name": "RGB-rule",
+  "space": "Lab",
+  "bins": 32,
+  "smooth": 1.0,
+  "threshold": 0.5,
+  "kernel": 0,
+  "white_balance": false
+}

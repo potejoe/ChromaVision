@@ -1,0 +1,9 @@
+{
+  "name": "Lab-Morph",
+  "space": "Lab",
+  "bins": 32,
+  "smooth": 0.0,
+  "threshold": 0.35,
+  "kernel": 5,
+  "white_balance": false
+}

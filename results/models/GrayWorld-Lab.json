@@ -1,0 +1,9 @@
+{
+  "name": "GrayWorld-Lab",
+  "space": "Lab",
+  "bins": 32,
+  "smooth": 0.0,
+  "threshold": 0.65,
+  "kernel": 0,
+  "white_balance": true
+}

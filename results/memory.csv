@@ -1,0 +1,7 @@
+method,model_bytes,input_bytes,baseline_rss_mib,sampled_peak_rss_mib,sampled_delta_mib,repetitions,note
+GrayWorld-Lab,4096,230400,109.18359375,112.14453125,2.9609375,50,processus Python + OpenCV ; échantillonnage 1 ms ; peut manquer un pic bref
+Hist-CrCb,4096,230400,109.18359375,111.3515625,2.16796875,50,processus Python + OpenCV ; échantillonnage 1 ms ; peut manquer un pic bref
+Hist-HS,4096,230400,109.1640625,110.32421875,1.16015625,50,processus Python + OpenCV ; échantillonnage 1 ms ; peut manquer un pic bref
+Hist-Lab,4096,230400,109.1953125,112.08203125,2.88671875,50,processus Python + OpenCV ; échantillonnage 1 ms ; peut manquer un pic bref
+Lab-Morph,4096,230400,109.19921875,114.328125,5.12890625,50,processus Python + OpenCV ; échantillonnage 1 ms ; peut manquer un pic bref
+RGB-rule,0,230400,113.2109375,113.296875,0.0859375,50,processus Python + OpenCV ; échantillonnage 1 ms ; peut manquer un pic bref
